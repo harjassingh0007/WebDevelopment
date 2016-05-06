@@ -1,0 +1,35 @@
+.no-margin{
+	margin: 0px;
+}
+
+.site-footer{
+	position : bottom;
+    float: right;
+    bottom : 0;
+    height: 30px;
+    width: 100%;
+	margin-top: 20px;
+	background: transparent;
+	color: #fff;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	padding-right: 10px;
+	font-size: 12px;
+}
+
+.buttonsize{
+	margin-top: 10px;
+	width: 300px;
+}
+
+.signin-alignment{
+	margin-top: 0px;
+}
+
+.jumbotron-align{
+	background-color: transparent;
+	color: #FFFFFF;
+	height: 300px;
+	width: 600px;
+	margin-top: 100px;
+}
