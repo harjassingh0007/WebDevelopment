@@ -18,13 +18,19 @@
 			        <span class="icon-bar"></span>
 			        <span class="icon-bar"></span>
     			</button>
-			<a class= "navbar-brand" href="index.html"><img src="images/logo.png"></a>
+			<a class= "navbar-brand" href="index.php"><img src="images/logo.png"></a>
 		</div>
 		<div class = "collapse navbar-collapse navbar-right" id="bs-MyThoughts-navbar-collapse-1">
 			<ul class = "nav navbar-nav">
-				<li><a href="index.html">Home</a></li>
-				<li><a href="index.html">About</a></li>
-				<li><a href="index.html">Other Blogs</a></li>
+				<li><a href="index.php">Home</a></li>
+				<li><a href="index.php">About</a></li>
+				<li><form class="navbar-form navbar-left" role="search">
+        				<div class="form-group">
+       					    <input type="text" class="form-control" placeholder="Search">
+        				</div>
+       					<button type="submit" class="btn btn-default">Search</button>
+      				</form>
+      			</li>
 			</ul>
 		</div>
 		</div>

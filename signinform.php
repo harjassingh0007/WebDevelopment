@@ -17,13 +17,19 @@
 			        <span class="icon-bar"></span>
 			        <span class="icon-bar"></span>
     			</button>
-			<a class= "navbar-brand" href="index.html"><img src="images/logo.png"></a>
+			<a class= "navbar-brand" href="index.php"><img src="images/logo.png"></a>
 		</div>
 		<div class = "collapse navbar-collapse navbar-right" id="bs-MyThoughts-navbar-collapse-1">
 			<ul class = "nav navbar-nav">
-				<li><a href="index.html">Home</a></li>
-				<li><a href="index.html">About</a></li>
-				<li><a href="index.html">Other Blogs</a></li>
+				<li><a href="index.php">Home</a></li>
+				<li><a href="index.php">About</a></li>
+				<li><form class="navbar-form navbar-left" role="search">
+        				<div class="form-group">
+       					    <input type="text" class="form-control" placeholder="Search">
+        				</div>
+       					<button type="submit" class="btn btn-default">Search</button>
+      				</form>
+      			</li>
 			</ul>
 		</div>
 		</div>
@@ -40,15 +46,15 @@
 		    	<label for="Password">Password</label>
 		    	<input class="form-control" id="Password" type="password">
     		</div>
-    		<p><center><a class = "btn btn-primary " href= "BlogProfile.html">Log In</a></center></p>
+    		<p><center><a class = "btn btn-primary " href= "BlogProfile.php">Log In</a></center></p>
 		</div>
 		<div class = "container">
 			<a href="#" style = "color: #fff">Sign in with Facebook</a>
 		</div>
 	</div></center>
-	<footer class= "site-footer"> 
+	<!-- <footer class= "site-footer"> 
 			<div class = "pull-right">Created and Maintained by HARJAS SINGH</div>
-	</footer>
+	</footer> -->
 	<script src = "js/jQuery.js"></script>
 	<script src = "js/bootstrap.min.js"></script>
 </body>
