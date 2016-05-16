@@ -77,9 +77,9 @@
     		<a class="btn btn-info buttonsize center-block" href="signinform.php" role="button">Sign In here if you already have an account</a>
     	</div>
     </div>
-  <!--   <footer class= "site-footer"> 
-			<div class = "pull-right">Created and Maintained by HARJAS SINGH</div>
-	</footer> -->
+     <?php
+     	include "php/library.php";
+	?>
     <script src = "js/jQuery.js"></script>
 	<script src = "js/bootstrap.min.js"></script>
 </body>

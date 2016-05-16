@@ -56,7 +56,7 @@
 			<div class = "container">
 				<div class = "col-xs-12 col-sm-12 col-md-12 col-lg-12">
 					<center><h2>MyThoughts - A Blog point for You</h2></center>
-					<p>This website gives you a platform to create your own Blog. Start publishing in seconds. Instantly create the personal blog of your dreams to share your ideas on the web.</p>
+					<p>This website gives you a platform to create your own Blog. Start publishing in seconds. Instantly create</p><center><p>the personal blog of your dreams to share your ideas on the web.</center></p>
 					<center><p><a class = "btn btn-primary btn-lg" href= "signupform.php">Get Started</a></p></center>
 				</div>
 			</div>
